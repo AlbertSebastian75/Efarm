@@ -7,10 +7,8 @@ Front End: HTML, CSS<br>
 Back End: PHP, MYSQL 
 
 # Requirements
-Download Visual Studio Code, XAMPP for Windows, and a browser.
-
-In http://localhost/phpmyadmin/, create a database called `alb` and import the file `alb.sql`.
-
+Download Visual Studio Code, XAMPP for Windows, and a browser.<br>
+In http://localhost/phpmyadmin/, create a database called `alb` and import the file `alb.sql`.<br>
 Login credentials for Admin: `Admin123`
 
 # Stakeholders:
@@ -31,18 +29,14 @@ Create an AWS EC2 Instance and Connect to the Remote Desktop Protocol. Then Set 
 # About Me
 <img src="./css/image/347393526_250171240894141_1652025665265698400_n.jpg" alt="drawing" width="200"/>
 
-Albert Sebastian
-
-albertsebastian75@gmail.com
-
-8590956627
-
+Albert Sebastian<br>
+albertsebastian75@gmail.com<br>
+8590956627<br>
 Idukki, Kerala, India
 
 I am a recent graduate searching for a position that enables continuous learning, skill enhancement, and
 professional growth. I aim to contribute to the company's success by demonstrating resourcefulness,
 innovation, and flexibility.
 
-MCA(2021-2023): 9.06 CGPA
-
+MCA(2021-2023): 9.06 CGPA<br>
 BCA(2018-2021): 8.58 CGPA
