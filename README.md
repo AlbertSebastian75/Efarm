@@ -1,19 +1,17 @@
 # Efarm
-http://3.88.230.42/Efarm
-
+http://3.88.230.42/Efarm<br>
 E-farm Shopping is a web application developed for farmers to automate the purchasing of agricultural equipment.
 
 # Technology Used:
-Front End: HTML, CSS
-
+Front End: HTML, CSS<br>
 Back End: PHP, MYSQL 
 
 # Requirements
 Download Visual Studio Code, XAMPP for Windows, and a browser.
 
-In http://localhost/phpmyadmin/, create a database called `{alb}` and import the file `alb.sql`.
+In http://localhost/phpmyadmin/, create a database called `alb` and import the file `alb.sql`.
 
-Login credentials for Admin: Admin123
+Login credentials for Admin: `Admin123`
 
 # Stakeholders:
 ## Customers: 
@@ -25,7 +23,7 @@ The admin will have direct, personalized communication with the customer and are
 ## Guest: 
 The system allows greater privacy, in which one can view the details of the item including reviews and prices without login into the system. That is, without sharing any personnel information they can view the item details such as price, stock, description etc.
 
-# I created this website all by myself when I was pursuing my degree. It might have a few disadvantages, such being unattractive and unresponsive, so I recommend to use a laptop instead of a mobile device to view the site. Through this website project, I learned the fundamentals of HTML, CSS, and MySQL.
+### I created this website all by myself when I was pursuing my degree. It might have a few disadvantages, such being unattractive and unresponsive, so I recommend to use a laptop instead of a mobile device to view the site. Through this website project, I learned the fundamentals of HTML, CSS, and MySQL.
 
 # Hosting
 Create an AWS EC2 Instance and Connect to the Remote Desktop Protocol. Then Set Up the Project and Configure Security for necessary incoming and outgoing traffic.
