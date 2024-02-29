@@ -21,7 +21,7 @@ The admin will have direct, personalized communication with the customer and are
 ## Guest: 
 The system allows greater privacy, in which one can view the details of the item including reviews and prices without login into the system. That is, without sharing any personnel information they can view the item details such as price, stock, description etc.
 
-### I created this website all by myself when I was pursuing my degree. It might have a few disadvantages, such being unattractive and unresponsive, so I recommend to use a laptop instead of a mobile device to view the site. Through this website project, I learned the fundamentals of HTML, CSS, and MySQL.
+### I created this website all by myself when I was pursuing my degree. It might have a few disadvantages, such being unattractive and unresponsive, so I recommend desktop view for viewing the site. Through this website project, I learned the fundamentals of HTML, CSS, and MySQL.
 
 # Hosting
 Create an AWS EC2 Instance and Connect to the Remote Desktop Protocol. Then Set Up the Project and Configure Security for necessary incoming and outgoing traffic.
@@ -32,7 +32,7 @@ Create an AWS EC2 Instance and Connect to the Remote Desktop Protocol. Then Set 
 Albert Sebastian<br>
 albertsebastian75@gmail.com<br>
 8590956627<br>
-Idukki, Kerala, India
+Kerala, India
 
 I am a recent graduate searching for a position that enables continuous learning, skill enhancement, and
 professional growth. I aim to contribute to the company's success by demonstrating resourcefulness,
