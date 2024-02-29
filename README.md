@@ -17,4 +17,4 @@ The admin will have direct, personalized communication with the customer and are
 The system allows greater privacy, in which one can view the details of the item including reviews and prices without login into the system. That is, without sharing any personnel information they can view the item details such as price, stock, description etc.
 
 # About Me
-![Alt text](./css/image/347393526_250171240894141_1652025665265698400_n.jpg)
+![Alt text](./css/image/347393526_250171240894141_1652025665265698400_n.jpg){:height="100px" width="100px"}
