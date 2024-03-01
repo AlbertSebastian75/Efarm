@@ -37,6 +37,3 @@ Kerala, India
 I am a recent graduate searching for a position that enables continuous learning, skill enhancement, and
 professional growth. I aim to contribute to the company's success by demonstrating resourcefulness,
 innovation, and flexibility.
-
-MCA(2021-2023): 9.06 CGPA<br>
-BCA(2018-2021): 8.58 CGPA
