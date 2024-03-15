@@ -34,18 +34,6 @@ albertsebastian75@gmail.com<br>
 Kerala, India
 
 # Screenshoots
-<style>
-    table {
-      border-collapse: collapse;
-      width: 100%;
-    }
-    td {
-      padding: 0;
-    }
-    td img {
-      width: 100%;
-    }
-  </style>
 <table>
     <tr>
       <td align="center"><img src="./css/screenshots/index.JPG" width="200"></td>
