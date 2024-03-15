@@ -33,8 +33,8 @@ albertsebastian75@gmail.com<br>
 8590956627<br>
 Kerala, India
 
-# Screenshoots
-<table align="center" style="width:100%; border-collapse:collapse;">
+# Screenshots
+<table align="center">
     <tr>
       <td align="center"><img src="./css/screenshots/index.JPG" width="200"></td>
       <td align="center"><img src="./css/screenshots/view all.JPG" width="200"></td>
