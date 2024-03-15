@@ -9,7 +9,7 @@ Back End: PHP, MYSQL
 Download Visual Studio Code, XAMPP for Windows, and a browser.<br>
 Start: `Apache` and `mysql` in XAMPP Control Panel.<br>
 In http://localhost/phpmyadmin/, create a database called `alb` and import the file `alb.sql`.<br>
-Run locally in browser: `http://localhost/foldername`
+Run locally in browser: `http://localhost/foldername`<br>
 Login credentials for Admin: `Admin123`
 
 # Stakeholders:
@@ -34,10 +34,19 @@ albertsebastian75@gmail.com<br>
 Kerala, India
 
 # Screenshoots
-<div align="center">
-  <h2>Image Grid</h2>
-  <p>Here's a grid of images in a 3 columns x 10 rows format:</p>
-  <table>
+<style>
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+    td {
+      padding: 0;
+    }
+    td img {
+      width: 100%;
+    }
+  </style>
+<table>
     <tr>
       <td align="center"><img src="./css/screenshots/index.JPG" width="200"></td>
       <td align="center"><img src="./css/screenshots/view all.JPG" width="200"></td>
@@ -78,6 +87,4 @@ Kerala, India
       <td align="center"><img src="./css/screenshots/admin del usr.JPG" width="200"></td>
       <td align="center"><img src="./css/screenshots/admin ind usr view.JPG" width="200"></td>
     </tr>
-    <!-- Add more rows as needed -->
   </table>
-</div>
